@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[![Cosmic Trivia](https://img.youtube.com/vi/3E6ThhldyPQ/0.jpg)](https://www.youtube.com/watch?v=3E6ThhldyPQ)
+
 [![Discover Dogs](https://img.youtube.com/vi/Qvw_Jox6xkI/0.jpg)](https://www.youtube.com/watch?v=Qvw_Jox6xkI)
 
 <!-- https://www.youtube.com/watch?v=
